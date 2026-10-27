@@ -15,7 +15,7 @@ type Turno = {
 }
 
 const iniciales: Turno[] = [
-  { id: 1, mascota: 'Lola', duenio: 'María Pérez', telefono: '2615551234', servicio: 'Baño y corte', fecha: '2026-10-27', hora: '10:00', estado: 'Confirmado' },
+  { id: 1, mascota: 'Lola', duenio: 'Eugenia Pérez', telefono: '2615551234', servicio: 'Baño y corte', fecha: '2026-10-27', hora: '10:00', estado: 'Confirmado' },
   { id: 2, mascota: 'Toby', duenio: 'Juan López', telefono: '2615552345', servicio: 'Baño', fecha: '2026-10-27', hora: '11:00', estado: 'Pendiente' },
   { id: 3, mascota: 'Luna', duenio: 'Sofía Díaz', telefono: '2615553456', servicio: 'Corte', fecha: '2026-10-27', hora: '12:00', estado: 'Confirmado' },
   { id: 4, mascota: 'Milo', duenio: 'Camila Ruiz', telefono: '2615554567', servicio: 'Baño y corte', fecha: '2026-10-28', hora: '09:30', estado: 'Pendiente' },
